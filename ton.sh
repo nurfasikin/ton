@@ -5,4 +5,4 @@ tar xvf lolMiner_v1.41b_Lin64.tar.gz
 mv 1.41b mng 
 cd mng
 chmod +x lolMiner 
-./lolMiner --algo TON --pool https://pool.services.tonwhales.com --user EQCzFTXpNNsFu8IgJnRnkDyBCL2ry8KgZYiDi3Jt31ie8EIQ
+./lolMiner --algo TON --pool https://pool.services.tonwhales.com --user EQA0Q3JaZgjKJ6QVzETgz3xYfalnLCx170Ey8cEGhsnyLkdI

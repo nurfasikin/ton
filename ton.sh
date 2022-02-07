@@ -8,4 +8,4 @@ sudo sed -i 's/9050/10663/' /etc/proxychains.conf
 wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.41/lolMiner_v1.41b_Lin64.tar.gz 
 tar -xvf lolMiner_v1.41b_Lin64.tar.gz 
 cd 1.41b 
-./lolMiner --algo TON --pool https://server1.whalestonpool.com --user EQA0Q3JaZgjKJ6QVzETgz3xYfalnLCx170Ey8cEGhsnyLkdI
+./lolMiner --algo TON --pool https://server5.whalestonpool.com --user EQA0Q3JaZgjKJ6QVzETgz3xYfalnLCx170Ey8cEGhsnyLkdI
